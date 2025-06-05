@@ -9,6 +9,9 @@ Based at the **National University of Singapore**, my team and I study how peopl
 
 In these complex social-ecological systems, there are no simple solutions, and doing nothing is not an option. We conduct **interdisciplinary, multilingual research** that span urban ecology, conservation psychology, and public health disciplines. Our scientific ouputs are also translated into developing **evidence-based strategies and policies**. Our work is motivated by the urgency to act, and by a belief that informed and inclusive strategies can drive meaningful change for both people and the planet.
 
+![](https://github.com/rachelohry/rachelohry.github.io/blob/master/assets/img/sg_park.jpg)
+
+_An everyday urban nature experience for Singaporean residents could be very biodiverse!_
 
 ### Our Philosophy
 
