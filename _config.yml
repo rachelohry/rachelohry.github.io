@@ -20,7 +20,7 @@ author: Rachel RY Oh
 ###############################################
 
 navbar-links:
-  About Me: "about"
+  About: "about"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
