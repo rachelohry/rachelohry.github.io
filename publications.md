@@ -10,13 +10,13 @@ Below, I highlight a selection of my more recent work.
 
 2. **Oh RRY**, Suarez-Castro AF, Fuller RA, … Tulloch A, Bonn A (2025). Using nature-based citizen science initiatives to enhance nature connection and mental health. [Frontiers in Environmental Science](https://doi.org/10.3389/fenvs.2025.1461601).
 
-3. Wendelboe-Nelson C, Fisher J, Sousa-Silva R, Straka TM … **Oh RRY $^{\text{†}}$** & Bonn A $^{\text{†}}$ (2025). Nature-based health interventions for refugees, migrants and asylum seekers: a feasibility study. [Health & Place](https://doi.org/10.1016/j.healthplace.2024.103387). $^{\text{†}}$ denotes shared senior authorship. 
+3. Wendelboe-Nelson C, Fisher J, Sousa-Silva R, Straka TM … **Oh RRY^** & Bonn A^ (2025). Nature-based health interventions for refugees, migrants and asylum seekers: a feasibility study. [Health & Place](https://doi.org/10.1016/j.healthplace.2024.103387). _^denotes shared senior authorship_ 
 
 4. Suarez-Castro AF, **Oh RRY**, Tulloch AIT, Bonn A, Fuller RA & Rhodes JR (2024). Landscape structure influences the spatial distribution of urban bird attractiveness. [Landscape Ecology](https://doi.org/10.1007/s10980-024-01950-9).
 
 5. T Pienkowski, Keane A, Booth H, Kinyanda E, Fisher JC, Lawrance E, **Oh RRY** & Milner-Gulland EJ (2024). Nature’s contributions to social determinants of mental health and the role of conservation. [One Earth](https://doi.org/10.1016/j.oneear.2024.05.004).
 
-6. de Bell S, Alejandre JC, Menzel C, Sousa-Silva R, Straka TM, Berzborn S … **Oh RRY $^{\text{†}}$** & Bonn A $^{\text{†}}$ (2024). Nature-based social prescribing programmes: opportunities, challenges, and facilitators for implementation. [Environmental International](https://doi.org/10.1016/j.envint.2024.108801). 
+6. de Bell S, Alejandre JC, Menzel C, Sousa-Silva R, Straka TM, Berzborn S … **Oh RRY^** & Bonn A^ (2024). Nature-based social prescribing programmes: opportunities, challenges, and facilitators for implementation. [Environmental International](https://doi.org/10.1016/j.envint.2024.108801). 
 
 7. Sheard JK … **Oh RRY**, Peters B, Phartyal SS, Pocock MJO, Wäldchen J & Bonn A (2024). Emerging technologies in citizen science and potential for insect monitoring. [Philosophical Transactions of the Royal Society B](https://doi.org/10.1098/rstb.2023.0106).
 
