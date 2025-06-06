@@ -4,7 +4,7 @@ title: Contact
 ---
 
 ![Profile Rachel](https://raw.githubusercontent.com/rachelohry/rachelohry.github.io/master/assets/img/profile_rachel.png)
-We are always happy to hear from anyone who is interested in working with us, as a PhD or honours student, an independent post-doc or a visitor. Please drop me an email (r.oh[at]uq.edu.au).
+We are always happy to hear from anyone keen to collaborate or visit. Please drop me an email (r.oh[at]uq.edu.au).
 
 ### Important 
 
