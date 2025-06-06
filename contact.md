@@ -3,12 +3,10 @@ layout: page
 title: Contact 
 ---
 
-
-![](https://github.com/rachelohry/rachelohry.github.io/blob/master/assets/img/avatar-icon.png)
-
-![](https://github.com/rachelohry/rachelohry.github.io/blob/master/assets/img/parrot_icon.png)
-
 We are always happy to hear from anyone who is interested in working with us, as a PhD or honours student, an independent post-doc or a visitor. Please drop me an email (r.oh[at]uq.edu.au).
+
+![Parrot Icon](https://raw.githubusercontent.com/rachelohry/rachelohry.github.io/master/assets/img/parrot_icon.png)
+
 
 ### Important 
 
